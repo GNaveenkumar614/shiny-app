@@ -1,0 +1,25 @@
+Predict Horsepower prediction
+
+
+Introduction
+This is presentation for Predict Horsepowe, that is part of Course Project for Developing Data Products.
+
+Agenda
+
+Idea
+Data Details
+Data Example
+Summary
+Idea
+The main idea of the application is to provide usefule interface for Predict Horsepowe. It could be use for testing different application where requires relevant  information like miles per gallon.
+Main screenshot
+
+Data Details
+Data structure
+
+The data is taken from dataset MTCARS which is an inbuilt dataset in R
+It provides information about various features or information based on the cars manudactured by diiferent companies
+
+
+Summary
+To predict the horse power based on given data
